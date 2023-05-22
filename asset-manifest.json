@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Jewellery-web-page/static/css/main.e99f38f3.css",
+    "main.js": "/Jewellery-web-page/static/js/main.4cd79993.js",
+    "static/media/m19.png": "/Jewellery-web-page/static/media/m19.978675a7a78298abb8d6.png",
+    "static/media/m14.png": "/Jewellery-web-page/static/media/m14.f30edf0584ac812f401b.png",
+    "static/media/m22.png": "/Jewellery-web-page/static/media/m22.f30edf0584ac812f401b.png",
+    "static/media/m21.png": "/Jewellery-web-page/static/media/m21.c912a72d1964828397c0.png",
+    "static/media/m18.png": "/Jewellery-web-page/static/media/m18.b31ac58eb1f4c9c1b10f.png",
+    "static/media/m6.png": "/Jewellery-web-page/static/media/m6.9c1e9241537483ccffe9.png",
+    "static/media/m27.png": "/Jewellery-web-page/static/media/m27.a0505d5aa8a931501d36.png",
+    "static/media/m12.png": "/Jewellery-web-page/static/media/m12.457eced82b5cbc350e09.png",
+    "static/media/m24.png": "/Jewellery-web-page/static/media/m24.737312b512dea1e94659.png",
+    "static/media/m17.png": "/Jewellery-web-page/static/media/m17.1038bd54cc1fc783c54d.png",
+    "static/media/headerimg.png": "/Jewellery-web-page/static/media/headerimg.e7e20c0cb6c894debdb3.png",
+    "static/media/m23.png": "/Jewellery-web-page/static/media/m23.88f0bda64ecab6d6e9e2.png",
+    "static/media/m15.png": "/Jewellery-web-page/static/media/m15.a3df1fd7000f34c5e893.png",
+    "static/media/m5.png": "/Jewellery-web-page/static/media/m5.bde2612201908fe98038.png",
+    "static/media/m2.png": "/Jewellery-web-page/static/media/m2.b5a6d13322072cbf012e.png",
+    "static/media/m1.png": "/Jewellery-web-page/static/media/m1.6062e6faec322c004e36.png",
+    "static/media/m4.png": "/Jewellery-web-page/static/media/m4.d7ae5d6184c2d4ea5009.png",
+    "static/media/m11.png": "/Jewellery-web-page/static/media/m11.47b99dc913d57bdad03f.png",
+    "static/media/m10.png": "/Jewellery-web-page/static/media/m10.8c85ac4505366a3a0c64.png",
+    "static/media/m7.png": "/Jewellery-web-page/static/media/m7.8c85ac4505366a3a0c64.png",
+    "static/media/m3.png": "/Jewellery-web-page/static/media/m3.78e415a2f328cae101cd.png",
+    "static/media/m25.png": "/Jewellery-web-page/static/media/m25.2b771f31733c87c1b1c4.png",
+    "static/media/m26.png": "/Jewellery-web-page/static/media/m26.92debf6a344ae0a9bc98.png",
+    "static/media/brac.png": "/Jewellery-web-page/static/media/brac.0e77f1c89ba16296d09a.png",
+    "static/media/m13.png": "/Jewellery-web-page/static/media/m13.9a5f45f7721737430af7.png",
+    "static/media/m9.png": "/Jewellery-web-page/static/media/m9.8edcb0e11450dcace31c.png",
+    "static/media/m16.png": "/Jewellery-web-page/static/media/m16.b318b58670459d5d567c.png",
+    "static/media/m0.png": "/Jewellery-web-page/static/media/m0.6eb571c234fa94bbcdd2.png",
+    "static/media/m8.png": "/Jewellery-web-page/static/media/m8.d42fcce8ac4b122337e4.png",
+    "static/media/m29.png": "/Jewellery-web-page/static/media/m29.93ee97484ceba01aaaf2.png",
+    "index.html": "/Jewellery-web-page/index.html",
+    "main.e99f38f3.css.map": "/Jewellery-web-page/static/css/main.e99f38f3.css.map",
+    "main.4cd79993.js.map": "/Jewellery-web-page/static/js/main.4cd79993.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e99f38f3.css",
+    "static/js/main.4cd79993.js"
+  ]
+}
